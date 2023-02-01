@@ -1,6 +1,6 @@
-- API paths \n
-  -admin/ \n
-  -restaurant/ menu/ \n
-  -restaurant/ menu/<int:pk> \n
-  -restaurant/ api-token-auth/ \n
-  -restaurant/booking/ \n
+- API paths 
+  - admin/ 
+  - restaurant/menu/ 
+  - restaurant/menu/<int:pk> 
+  - restaurant/api-token-auth/ 
+  - restaurant/booking/
